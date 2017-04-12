@@ -8,5 +8,7 @@ object:
     inherits: 
     description: 
   fields:
+  - approval_type:
+      value: multi-level
   - max_vms:
       value: '1'
